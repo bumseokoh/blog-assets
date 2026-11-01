@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1670" height="418" viewBox="0 0 1670 418" font-family="&#x27;NanumSquare&#x27;,&#x27;Nanum Gothic&#x27;,&#x27;Apple SD Gothic Neo&#x27;,&#x27;Malgun Gothic&#x27;,sans-serif" role="img">
+<title>블로그 초안 생성 파이프라인</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1f2937"/></marker><marker id="ahA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker></defs>
+<rect width="1670" height="418" fill="#ffffff"/>
+<text x="835" y="34" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">블로그 초안 생성 파이프라인</text>
+<rect x="24.0" y="64.0" width="1622.0" height="168.0" rx="10" fill="#eef2f7" stroke="#1f2937" stroke-opacity="0.25"/>
+<text x="36.0" y="82.0" font-size="14" font-weight="700" fill="#1f2937" fill-opacity="0.75">결정적 처리 (Python + PostgreSQL)</text>
+<rect x="744.0" y="268.0" width="662.0" height="102.0" rx="10" fill="#eef2f7" stroke="#1f2937" stroke-opacity="0.25"/>
+<text x="756.0" y="286.0" font-size="14" font-weight="700" fill="#1f2937" fill-opacity="0.75">문장 생성 · 사람 확인</text>
+<path d="M190.0,153.0 C234.0,153.0 234.0,110.0 278.0,110.0" fill="none" stroke="#1f2937" stroke-width="1.6" marker-end="url(#ah)"/>
+<path d="M430.0,110.0 C474.0,110.0 474.0,153.0 518.0,153.0" fill="none" stroke="#1f2937" stroke-width="1.6" marker-end="url(#ah)"/>
+<path d="M670.0,153.0 C714.0,153.0 714.0,324.0 758.0,324.0" fill="none" stroke="#1f2937" stroke-width="1.6" marker-end="url(#ah)"/>
+<path d="M430.0,186.0 C594.0,186.0 594.0,324.0 758.0,324.0" fill="none" stroke="#1f2937" stroke-width="1.6" marker-end="url(#ah)"/>
+<path d="M910.0,324.0 C954.0,324.0 954.0,324.0 998.0,324.0" fill="none" stroke="#1f2937" stroke-width="1.6" marker-end="url(#ah)"/>
+<path d="M1075.0,354.0 C1075.0,404.0 835.0,404.0 835.0,346.0" fill="none" stroke="#1f2937" stroke-width="1.6" stroke-dasharray="5 4" marker-end="url(#ah)"/>
+<path d="M1150.0,324.0 C1314.0,324.0 1314.0,153.0 1478.0,153.0" fill="none" stroke="#1f2937" stroke-width="1.6" marker-end="url(#ah)"/>
+<path d="M1150.0,324.0 C1194.0,324.0 1194.0,324.0 1238.0,324.0" fill="none" stroke="#2563eb" stroke-width="1.6" marker-end="url(#ahA)"/>
+<path d="M1390.0,324.0 C1434.0,324.0 1434.0,153.0 1478.0,153.0" fill="none" stroke="#1f2937" stroke-width="1.6" marker-end="url(#ah)"/>
+<path d="M190.0,153.0 C234.0,153.0 234.0,186.0 278.0,186.0" fill="none" stroke="#1f2937" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="40.0" y="113.0" width="150.0" height="80.0" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="1.2"/>
+<text x="115.0" y="137.4" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">소재 수집</text>
+<text x="115.0" y="157.4" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">(뉴스·검색량·하네</text>
+<text x="115.0" y="177.4" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">스 기록)</text>
+<rect x="280.0" y="90.0" width="150.0" height="40.0" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="1.2"/>
+<text x="355.0" y="114.4" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">주제 선정</text>
+<rect x="520.0" y="133.0" width="150.0" height="40.0" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="1.2"/>
+<text x="595.0" y="157.4" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">키워드 분석</text>
+<rect x="280.0" y="156.0" width="150.0" height="60.0" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="1.2"/>
+<text x="355.0" y="180.4" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">facts YAML (본인</text>
+<text x="355.0" y="200.4" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">경험)</text>
+<rect x="760.0" y="304.0" width="150.0" height="40.0" rx="8" fill="#ffffff" stroke="#2563eb" stroke-width="2.4"/>
+<text x="835.0" y="328.4" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">초안 문장 생성</text>
+<rect x="1000.0" y="294.0" width="150.0" height="60.0" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="1.2"/>
+<text x="1075.0" y="318.4" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">규칙 검사</text>
+<text x="1075.0" y="338.4" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">(린트·유사도)</text>
+<rect x="1480.0" y="133.0" width="150.0" height="40.0" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="1.2"/>
+<text x="1555.0" y="157.4" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">ledger 기록</text>
+<rect x="1240.0" y="304.0" width="150.0" height="40.0" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="1.2"/>
+<text x="1315.0" y="328.4" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">사람 검토 후 게시</text>
+<rect x="572.0" y="245.0" width="44.0" height="18" rx="4" fill="#ffffff" fill-opacity="0.95"/>
+<text x="594.0" y="259.0" text-anchor="middle" font-size="12" fill="#1f2937">사실만</text>
+<rect x="911.7" y="388.0" width="86.7" height="18" rx="4" fill="#ffffff" fill-opacity="0.95"/>
+<text x="955.0" y="402.0" text-anchor="middle" font-size="12" fill="#1f2937">거부 시 재생성</text>
+<rect x="1412.0" y="228.5" width="44.0" height="18" rx="4" fill="#ffffff" fill-opacity="0.95"/>
+<text x="1434.0" y="242.5" text-anchor="middle" font-size="12" fill="#1f2937">게시일</text>
+</svg>
