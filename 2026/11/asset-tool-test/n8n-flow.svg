@@ -1,76 +1,76 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1508" height="362" viewBox="0 0 1508 362" font-family="&#x27;NanumSquare&#x27;,&#x27;Nanum Gothic&#x27;,&#x27;Apple SD Gothic Neo&#x27;,&#x27;Malgun Gothic&#x27;,sans-serif" role="img">
 <title>Blogger 글 자동화 흐름</title>
-<defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#d5d9e0"/></pattern><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#9aa3af"/></marker></defs>
-<rect width="1508" height="362" fill="#f7f8fa"/><rect width="1508" height="362" fill="url(#dots)"/>
+<defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#1f2937" fill-opacity="0.20"/></pattern><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1f2937" fill-opacity="0.5"/></marker><marker id="ahw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker></defs>
+<rect width="1508" height="362" fill="#ffffff"/><rect width="1508" height="362" fill="url(#dots)"/>
 <text x="28" y="46" font-size="18" font-weight="700" fill="#1f2937">Blogger 글 자동화 흐름</text>
-<rect x="28.0" y="74.0" width="688.0" height="121.0" rx="10" fill="#10b981" fill-opacity="0.10" stroke="#10b981" stroke-opacity="0.35"/>
+<rect x="28.0" y="74.0" width="688.0" height="121.0" rx="10" fill="#1f2937" fill-opacity="0.05" stroke="#1f2937" stroke-opacity="0.18"/>
 <text x="40.0" y="94.0" font-size="13" font-weight="700" fill="#1f2937">수집 · 정제 (결정적 Python)</text>
-<rect x="742.0" y="74.0" width="450.0" height="121.0" rx="10" fill="#8b5cf6" fill-opacity="0.10" stroke="#8b5cf6" stroke-opacity="0.35"/>
+<rect x="742.0" y="74.0" width="450.0" height="121.0" rx="10" fill="#1f2937" fill-opacity="0.1" stroke="#1f2937" stroke-opacity="0.18"/>
 <text x="754.0" y="94.0" font-size="13" font-weight="700" fill="#1f2937">생성 · 검사</text>
-<path d="M224.0,141.5 C264.0,141.5 239.0,141.5 279.0,141.5" fill="none" stroke="#9aa3af" stroke-width="2" marker-end="url(#ah)"/>
-<path d="M462.0,141.5 C502.0,141.5 477.0,141.5 517.0,141.5" fill="none" stroke="#9aa3af" stroke-width="2" marker-end="url(#ah)"/>
-<path d="M700.0,141.5 C740.0,141.5 715.0,262.5 755.0,262.5" fill="none" stroke="#9aa3af" stroke-width="2" marker-end="url(#ah)"/>
-<path d="M700.0,141.5 C740.0,141.5 715.0,141.5 755.0,141.5" fill="none" stroke="#9aa3af" stroke-width="2" marker-end="url(#ah)"/>
-<path d="M938.0,141.5 C978.0,141.5 953.0,141.5 993.0,141.5" fill="none" stroke="#9aa3af" stroke-width="2" marker-end="url(#ah)"/>
-<path d="M1176.0,129.0 C1216.0,129.0 1191.0,141.5 1231.0,141.5" fill="none" stroke="#9aa3af" stroke-width="2" marker-end="url(#ah)"/>
-<path d="M1176.0,154.0 C1216.0,154.0 1191.0,262.5 1231.0,262.5" fill="none" stroke="#9aa3af" stroke-width="2" marker-end="url(#ah)"/>
-<path d="M1414.0,262.5 C1460.0,262.5 1460.0,344.0 1414.0,344.0 L749.0,344.0 C703.0,344.0 703.0,141.5 755.0,141.5" fill="none" stroke="#9aa3af" stroke-width="2" stroke-dasharray="6 5" marker-end="url(#ah)"/>
-<path d="M71.5,107.0 H217.5 A8,8 0 0 1 225.5,115.0 V174.0 A8,8 0 0 1 217.5,182.0 H71.5 A26,26 0 0 1 45.5,156.0 V133.0 A26,26 0 0 1 71.5,107.0 Z" fill="#000000" fill-opacity="0.06"/>
-<path d="M70.0,104.0 H216.0 A8,8 0 0 1 224.0,112.0 V171.0 A8,8 0 0 1 216.0,179.0 H70.0 A26,26 0 0 1 44.0,153.0 V130.0 A26,26 0 0 1 70.0,104.0 Z" fill="#ffffff" stroke="#ff6d5a" stroke-width="1.8"/>
-<rect x="62.0" y="116.0" width="30" height="30" rx="7" fill="#ff6d5a" fill-opacity="0.14"/><polygon points="79.0,120.0 70.0,133.0 76.0,133.0 74.0,142.0 84.0,128.0 78.0,128.0 80.0,120.0" fill="#ff6d5a"/>
+<path d="M224.0,141.5 C264.0,141.5 239.0,141.5 279.0,141.5" fill="none" stroke="#1f2937" stroke-opacity="0.5" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M462.0,141.5 C502.0,141.5 477.0,141.5 517.0,141.5" fill="none" stroke="#1f2937" stroke-opacity="0.5" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M700.0,141.5 C740.0,141.5 715.0,262.5 755.0,262.5" fill="none" stroke="#1f2937" stroke-opacity="0.5" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M700.0,141.5 C740.0,141.5 715.0,141.5 755.0,141.5" fill="none" stroke="#1f2937" stroke-opacity="0.5" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M938.0,141.5 C978.0,141.5 953.0,141.5 993.0,141.5" fill="none" stroke="#1f2937" stroke-opacity="0.5" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M1176.0,129.0 C1216.0,129.0 1191.0,141.5 1231.0,141.5" fill="none" stroke="#1f2937" stroke-opacity="0.5" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M1176.0,154.0 C1216.0,154.0 1191.0,262.5 1231.0,262.5" fill="none" stroke="#dc2626" stroke-width="2" marker-end="url(#ahw)"/>
+<path d="M1414.0,262.5 C1460.0,262.5 1460.0,344.0 1414.0,344.0 L749.0,344.0 C703.0,344.0 703.0,141.5 755.0,141.5" fill="none" stroke="#1f2937" stroke-opacity="0.5" stroke-width="2" stroke-dasharray="6 5" marker-end="url(#ah)"/>
+<path d="M71.5,107.0 H217.5 A8,8 0 0 1 225.5,115.0 V174.0 A8,8 0 0 1 217.5,182.0 H71.5 A26,26 0 0 1 45.5,156.0 V133.0 A26,26 0 0 1 71.5,107.0 Z" fill="#1f2937" fill-opacity="0.07"/>
+<path d="M70.0,104.0 H216.0 A8,8 0 0 1 224.0,112.0 V171.0 A8,8 0 0 1 216.0,179.0 H70.0 A26,26 0 0 1 44.0,153.0 V130.0 A26,26 0 0 1 70.0,104.0 Z" fill="#ffffff" stroke="#2563eb" stroke-width="1.8"/>
+<rect x="62.0" y="116.0" width="30" height="30" rx="7" fill="#2563eb" fill-opacity="1"/><polygon points="79.0,120.0 70.0,133.0 76.0,133.0 74.0,142.0 84.0,128.0 78.0,128.0 80.0,120.0" fill="#ffffff"/>
 <text x="100.0" y="135.5" font-size="14" font-weight="700" fill="#1f2937">매일 05:00</text>
-<text x="62.0" y="163.5" font-size="11.5" fill="#6b7280">cron 수집 트리거</text>
-<circle cx="224.0" cy="141.5" r="4.5" fill="#9aa3af"/>
-<path d="M291.5,107.0 H455.5 A8,8 0 0 1 463.5,115.0 V174.0 A8,8 0 0 1 455.5,182.0 H291.5 A8,8 0 0 1 283.5,174.0 V115.0 A8,8 0 0 1 291.5,107.0 Z" fill="#000000" fill-opacity="0.06"/>
-<path d="M290.0,104.0 H454.0 A8,8 0 0 1 462.0,112.0 V171.0 A8,8 0 0 1 454.0,179.0 H290.0 A8,8 0 0 1 282.0,171.0 V112.0 A8,8 0 0 1 290.0,104.0 Z" fill="#ffffff" stroke="#d0d5dd" stroke-width="1"/>
-<rect x="294.0" y="116.0" width="30" height="30" rx="7" fill="#3b82f6" fill-opacity="0.14"/><circle cx="309.0" cy="131.0" r="7.5" fill="none" stroke="#3b82f6" stroke-width="3" stroke-dasharray="3.2 2.2"/><circle cx="309.0" cy="131.0" r="3" fill="#3b82f6"/>
+<text x="62.0" y="163.5" font-size="11.5" fill="#1f2937" fill-opacity="0.62">cron 수집 트리거</text>
+<circle cx="224.0" cy="141.5" r="4.5" fill="#1f2937" fill-opacity="0.5"/>
+<path d="M291.5,107.0 H455.5 A8,8 0 0 1 463.5,115.0 V174.0 A8,8 0 0 1 455.5,182.0 H291.5 A8,8 0 0 1 283.5,174.0 V115.0 A8,8 0 0 1 291.5,107.0 Z" fill="#1f2937" fill-opacity="0.07"/>
+<path d="M290.0,104.0 H454.0 A8,8 0 0 1 462.0,112.0 V171.0 A8,8 0 0 1 454.0,179.0 H290.0 A8,8 0 0 1 282.0,171.0 V112.0 A8,8 0 0 1 290.0,104.0 Z" fill="#ffffff" stroke="#1f2937" stroke-opacity="0.24" stroke-width="1"/>
+<rect x="294.0" y="116.0" width="30" height="30" rx="7" fill="#2563eb" fill-opacity="0.13"/><circle cx="309.0" cy="131.0" r="7.5" fill="none" stroke="#2563eb" stroke-width="3" stroke-dasharray="3.2 2.2"/><circle cx="309.0" cy="131.0" r="3" fill="#2563eb"/>
 <text x="332.0" y="135.5" font-size="14" font-weight="700" fill="#1f2937">GitHub API</text>
-<text x="294.0" y="163.5" font-size="11.5" fill="#6b7280">AI 레포 스타순 상위 20</text>
-<circle cx="282.0" cy="141.5" r="4.5" fill="#ffffff" stroke="#9aa3af" stroke-width="1.6"/>
-<circle cx="462.0" cy="141.5" r="4.5" fill="#9aa3af"/>
-<path d="M529.5,107.0 H693.5 A8,8 0 0 1 701.5,115.0 V174.0 A8,8 0 0 1 693.5,182.0 H529.5 A8,8 0 0 1 521.5,174.0 V115.0 A8,8 0 0 1 529.5,107.0 Z" fill="#000000" fill-opacity="0.06"/>
-<path d="M528.0,104.0 H692.0 A8,8 0 0 1 700.0,112.0 V171.0 A8,8 0 0 1 692.0,179.0 H528.0 A8,8 0 0 1 520.0,171.0 V112.0 A8,8 0 0 1 528.0,104.0 Z" fill="#ffffff" stroke="#d0d5dd" stroke-width="1"/>
-<rect x="532.0" y="116.0" width="30" height="30" rx="7" fill="#3b82f6" fill-opacity="0.14"/><circle cx="547.0" cy="131.0" r="7.5" fill="none" stroke="#3b82f6" stroke-width="3" stroke-dasharray="3.2 2.2"/><circle cx="547.0" cy="131.0" r="3" fill="#3b82f6"/>
+<text x="294.0" y="163.5" font-size="11.5" fill="#1f2937" fill-opacity="0.62">AI 레포 스타순 상위 20</text>
+<circle cx="282.0" cy="141.5" r="4.5" fill="#ffffff" stroke="#1f2937" stroke-opacity="0.5" stroke-width="1.6"/>
+<circle cx="462.0" cy="141.5" r="4.5" fill="#1f2937" fill-opacity="0.5"/>
+<path d="M529.5,107.0 H693.5 A8,8 0 0 1 701.5,115.0 V174.0 A8,8 0 0 1 693.5,182.0 H529.5 A8,8 0 0 1 521.5,174.0 V115.0 A8,8 0 0 1 529.5,107.0 Z" fill="#1f2937" fill-opacity="0.07"/>
+<path d="M528.0,104.0 H692.0 A8,8 0 0 1 700.0,112.0 V171.0 A8,8 0 0 1 692.0,179.0 H528.0 A8,8 0 0 1 520.0,171.0 V112.0 A8,8 0 0 1 528.0,104.0 Z" fill="#ffffff" stroke="#1f2937" stroke-opacity="0.24" stroke-width="1"/>
+<rect x="532.0" y="116.0" width="30" height="30" rx="7" fill="#2563eb" fill-opacity="0.13"/><circle cx="547.0" cy="131.0" r="7.5" fill="none" stroke="#2563eb" stroke-width="3" stroke-dasharray="3.2 2.2"/><circle cx="547.0" cy="131.0" r="3" fill="#2563eb"/>
 <text x="570.0" y="135.5" font-size="14" font-weight="700" fill="#1f2937">필터</text>
-<text x="532.0" y="163.5" font-size="11.5" fill="#6b7280">중복·라이선스·스타 증가분</text>
-<circle cx="520.0" cy="141.5" r="4.5" fill="#ffffff" stroke="#9aa3af" stroke-width="1.6"/>
-<circle cx="700.0" cy="141.5" r="4.5" fill="#9aa3af"/>
-<path d="M767.5,228.0 H931.5 A8,8 0 0 1 939.5,236.0 V295.0 A8,8 0 0 1 931.5,303.0 H767.5 A8,8 0 0 1 759.5,295.0 V236.0 A8,8 0 0 1 767.5,228.0 Z" fill="#000000" fill-opacity="0.06"/>
-<path d="M766.0,225.0 H930.0 A8,8 0 0 1 938.0,233.0 V292.0 A8,8 0 0 1 930.0,300.0 H766.0 A8,8 0 0 1 758.0,292.0 V233.0 A8,8 0 0 1 766.0,225.0 Z" fill="#ffffff" stroke="#d0d5dd" stroke-width="1"/>
-<rect x="770.0" y="237.0" width="30" height="30" rx="7" fill="#10b981" fill-opacity="0.14"/><path d="M777.0,246.0 V258.0 A8,3.2 0 0 0 793.0,258.0 V246.0" fill="#10b981" fill-opacity="0.85"/><ellipse cx="785.0" cy="246.0" rx="8" ry="3.2" fill="#10b981"/><path d="M777.0,252.0 A8,3.2 0 0 0 793.0,252.0" fill="none" stroke="#ffffff" stroke-width="1.2"/>
+<text x="532.0" y="163.5" font-size="11.5" fill="#1f2937" fill-opacity="0.62">중복·라이선스·스타 증가분</text>
+<circle cx="520.0" cy="141.5" r="4.5" fill="#ffffff" stroke="#1f2937" stroke-opacity="0.5" stroke-width="1.6"/>
+<circle cx="700.0" cy="141.5" r="4.5" fill="#1f2937" fill-opacity="0.5"/>
+<path d="M767.5,228.0 H931.5 A8,8 0 0 1 939.5,236.0 V295.0 A8,8 0 0 1 931.5,303.0 H767.5 A8,8 0 0 1 759.5,295.0 V236.0 A8,8 0 0 1 767.5,228.0 Z" fill="#1f2937" fill-opacity="0.07"/>
+<path d="M766.0,225.0 H930.0 A8,8 0 0 1 938.0,233.0 V292.0 A8,8 0 0 1 930.0,300.0 H766.0 A8,8 0 0 1 758.0,292.0 V233.0 A8,8 0 0 1 766.0,225.0 Z" fill="#ffffff" stroke="#1f2937" stroke-opacity="0.24" stroke-width="1"/>
+<rect x="770.0" y="237.0" width="30" height="30" rx="7" fill="#2563eb" fill-opacity="0.13"/><path d="M777.0,246.0 V258.0 A8,3.2 0 0 0 793.0,258.0 V246.0" fill="#2563eb" fill-opacity="0.85"/><ellipse cx="785.0" cy="246.0" rx="8" ry="3.2" fill="#2563eb"/><path d="M777.0,252.0 A8,3.2 0 0 0 793.0,252.0" fill="none" stroke="#ffffff" stroke-width="1.2"/>
 <text x="808.0" y="256.5" font-size="14" font-weight="700" fill="#1f2937">PG sources 적재</text>
-<text x="770.0" y="284.5" font-size="11.5" fill="#6b7280">원문 보존, 요약 없음</text>
-<circle cx="758.0" cy="262.5" r="4.5" fill="#ffffff" stroke="#9aa3af" stroke-width="1.6"/>
-<path d="M767.5,107.0 H931.5 A8,8 0 0 1 939.5,115.0 V174.0 A8,8 0 0 1 931.5,182.0 H767.5 A8,8 0 0 1 759.5,174.0 V115.0 A8,8 0 0 1 767.5,107.0 Z" fill="#000000" fill-opacity="0.06"/>
-<path d="M766.0,104.0 H930.0 A8,8 0 0 1 938.0,112.0 V171.0 A8,8 0 0 1 930.0,179.0 H766.0 A8,8 0 0 1 758.0,171.0 V112.0 A8,8 0 0 1 766.0,104.0 Z" fill="#ffffff" stroke="#d0d5dd" stroke-width="1"/>
-<rect x="770.0" y="116.0" width="30" height="30" rx="7" fill="#8b5cf6" fill-opacity="0.14"/><path d="M785.0,120.0 Q786.5,129.5 796.0,131.0 Q786.5,132.5 785.0,142.0 Q783.5,132.5 774.0,131.0 Q783.5,129.5 785.0,120.0 Z" fill="#8b5cf6"/>
+<text x="770.0" y="284.5" font-size="11.5" fill="#1f2937" fill-opacity="0.62">원문 보존, 요약 없음</text>
+<circle cx="758.0" cy="262.5" r="4.5" fill="#ffffff" stroke="#1f2937" stroke-opacity="0.5" stroke-width="1.6"/>
+<path d="M767.5,107.0 H931.5 A8,8 0 0 1 939.5,115.0 V174.0 A8,8 0 0 1 931.5,182.0 H767.5 A8,8 0 0 1 759.5,174.0 V115.0 A8,8 0 0 1 767.5,107.0 Z" fill="#1f2937" fill-opacity="0.07"/>
+<path d="M766.0,104.0 H930.0 A8,8 0 0 1 938.0,112.0 V171.0 A8,8 0 0 1 930.0,179.0 H766.0 A8,8 0 0 1 758.0,171.0 V112.0 A8,8 0 0 1 766.0,104.0 Z" fill="#ffffff" stroke="#7c3aed" stroke-width="1.4"/>
+<rect x="770.0" y="116.0" width="30" height="30" rx="7" fill="#7c3aed" fill-opacity="0.13"/><path d="M785.0,120.0 Q786.5,129.5 796.0,131.0 Q786.5,132.5 785.0,142.0 Q783.5,132.5 774.0,131.0 Q783.5,129.5 785.0,120.0 Z" fill="#7c3aed"/>
 <text x="808.0" y="135.5" font-size="14" font-weight="700" fill="#1f2937">Claude 초안 생성</text>
-<text x="770.0" y="163.5" font-size="11.5" fill="#6b7280">facts 안의 사실만 문장화</text>
-<circle cx="758.0" cy="141.5" r="4.5" fill="#ffffff" stroke="#9aa3af" stroke-width="1.6"/>
-<circle cx="938.0" cy="141.5" r="4.5" fill="#9aa3af"/>
-<path d="M1005.5,107.0 H1169.5 A8,8 0 0 1 1177.5,115.0 V174.0 A8,8 0 0 1 1169.5,182.0 H1005.5 A8,8 0 0 1 997.5,174.0 V115.0 A8,8 0 0 1 1005.5,107.0 Z" fill="#000000" fill-opacity="0.06"/>
-<path d="M1004.0,104.0 H1168.0 A8,8 0 0 1 1176.0,112.0 V171.0 A8,8 0 0 1 1168.0,179.0 H1004.0 A8,8 0 0 1 996.0,171.0 V112.0 A8,8 0 0 1 1004.0,104.0 Z" fill="#ffffff" stroke="#d0d5dd" stroke-width="1"/>
-<rect x="1008.0" y="116.0" width="30" height="30" rx="7" fill="#3b82f6" fill-opacity="0.14"/><polygon points="1023.0,121.0 1033.0,131.0 1023.0,141.0 1013.0,131.0" fill="none" stroke="#3b82f6" stroke-width="2.6"/><circle cx="1023.0" cy="131.0" r="2.2" fill="#3b82f6"/>
+<text x="770.0" y="163.5" font-size="11.5" fill="#1f2937" fill-opacity="0.62">facts 안의 사실만 문장화</text>
+<circle cx="758.0" cy="141.5" r="4.5" fill="#ffffff" stroke="#1f2937" stroke-opacity="0.5" stroke-width="1.6"/>
+<circle cx="938.0" cy="141.5" r="4.5" fill="#1f2937" fill-opacity="0.5"/>
+<path d="M1005.5,107.0 H1169.5 A8,8 0 0 1 1177.5,115.0 V174.0 A8,8 0 0 1 1169.5,182.0 H1005.5 A8,8 0 0 1 997.5,174.0 V115.0 A8,8 0 0 1 1005.5,107.0 Z" fill="#1f2937" fill-opacity="0.07"/>
+<path d="M1004.0,104.0 H1168.0 A8,8 0 0 1 1176.0,112.0 V171.0 A8,8 0 0 1 1168.0,179.0 H1004.0 A8,8 0 0 1 996.0,171.0 V112.0 A8,8 0 0 1 1004.0,104.0 Z" fill="#ffffff" stroke="#1f2937" stroke-opacity="0.24" stroke-width="1"/>
+<rect x="1008.0" y="116.0" width="30" height="30" rx="7" fill="#2563eb" fill-opacity="0.13"/><polygon points="1023.0,121.0 1033.0,131.0 1023.0,141.0 1013.0,131.0" fill="none" stroke="#2563eb" stroke-width="2.6"/><circle cx="1023.0" cy="131.0" r="2.2" fill="#2563eb"/>
 <text x="1046.0" y="135.5" font-size="14" font-weight="700" fill="#1f2937">린트 통과?</text>
-<text x="1008.0" y="163.5" font-size="11.5" fill="#6b7280">금지어·유사도·사진 자리</text>
-<circle cx="996.0" cy="141.5" r="4.5" fill="#ffffff" stroke="#9aa3af" stroke-width="1.6"/>
-<circle cx="1176.0" cy="129.0" r="4.5" fill="#9aa3af"/>
-<text x="1184.0" y="122.0" font-size="11" font-weight="700" fill="#6b7280">true</text>
-<circle cx="1176.0" cy="154.0" r="4.5" fill="#9aa3af"/>
-<text x="1184.0" y="147.0" font-size="11" font-weight="700" fill="#6b7280">false</text>
-<path d="M1243.5,107.0 H1389.5 A26,26 0 0 1 1415.5,133.0 V156.0 A26,26 0 0 1 1389.5,182.0 H1243.5 A8,8 0 0 1 1235.5,174.0 V115.0 A8,8 0 0 1 1243.5,107.0 Z" fill="#000000" fill-opacity="0.06"/>
-<path d="M1242.0,104.0 H1388.0 A26,26 0 0 1 1414.0,130.0 V153.0 A26,26 0 0 1 1388.0,179.0 H1242.0 A8,8 0 0 1 1234.0,171.0 V112.0 A8,8 0 0 1 1242.0,104.0 Z" fill="#ffffff" stroke="#f59e0b" stroke-width="1.8"/>
-<rect x="1246.0" y="116.0" width="30" height="30" rx="7" fill="#f59e0b" fill-opacity="0.14"/><polygon points="1253.0,123.0 1271.0,131.0 1253.0,139.0 1256.5,131.0" fill="#f59e0b"/>
+<text x="1008.0" y="163.5" font-size="11.5" fill="#1f2937" fill-opacity="0.62">금지어·유사도·사진 자리</text>
+<circle cx="996.0" cy="141.5" r="4.5" fill="#ffffff" stroke="#1f2937" stroke-opacity="0.5" stroke-width="1.6"/>
+<circle cx="1176.0" cy="129.0" r="4.5" fill="#1f2937" fill-opacity="0.5"/>
+<text x="1184.0" y="122.0" font-size="11" font-weight="700" fill="#1f2937" fill-opacity="0.62">true</text>
+<circle cx="1176.0" cy="154.0" r="4.5" fill="#dc2626"/>
+<text x="1184.0" y="147.0" font-size="11" font-weight="700" fill="#dc2626">false</text>
+<path d="M1243.5,107.0 H1389.5 A26,26 0 0 1 1415.5,133.0 V156.0 A26,26 0 0 1 1389.5,182.0 H1243.5 A8,8 0 0 1 1235.5,174.0 V115.0 A8,8 0 0 1 1243.5,107.0 Z" fill="#1f2937" fill-opacity="0.07"/>
+<path d="M1242.0,104.0 H1388.0 A26,26 0 0 1 1414.0,130.0 V153.0 A26,26 0 0 1 1388.0,179.0 H1242.0 A8,8 0 0 1 1234.0,171.0 V112.0 A8,8 0 0 1 1242.0,104.0 Z" fill="#ffffff" stroke="#2563eb" stroke-width="1.8"/>
+<rect x="1246.0" y="116.0" width="30" height="30" rx="7" fill="#2563eb" fill-opacity="1"/><polygon points="1253.0,123.0 1271.0,131.0 1253.0,139.0 1256.5,131.0" fill="#ffffff"/>
 <text x="1284.0" y="135.5" font-size="14" font-weight="700" fill="#1f2937">Blogger 예약</text>
-<text x="1246.0" y="163.5" font-size="11.5" fill="#6b7280">초안 → 사람 확인 후 발행</text>
-<circle cx="1234.0" cy="141.5" r="4.5" fill="#ffffff" stroke="#9aa3af" stroke-width="1.6"/>
-<path d="M1243.5,228.0 H1407.5 A8,8 0 0 1 1415.5,236.0 V295.0 A8,8 0 0 1 1407.5,303.0 H1243.5 A8,8 0 0 1 1235.5,295.0 V236.0 A8,8 0 0 1 1243.5,228.0 Z" fill="#000000" fill-opacity="0.06"/>
-<path d="M1242.0,225.0 H1406.0 A8,8 0 0 1 1414.0,233.0 V292.0 A8,8 0 0 1 1406.0,300.0 H1242.0 A8,8 0 0 1 1234.0,292.0 V233.0 A8,8 0 0 1 1242.0,225.0 Z" fill="#ffffff" stroke="#d0d5dd" stroke-width="1"/>
-<rect x="1246.0" y="237.0" width="30" height="30" rx="7" fill="#10b981" fill-opacity="0.14"/><path d="M1253.0,246.0 V258.0 A8,3.2 0 0 0 1269.0,258.0 V246.0" fill="#10b981" fill-opacity="0.85"/><ellipse cx="1261.0" cy="246.0" rx="8" ry="3.2" fill="#10b981"/><path d="M1253.0,252.0 A8,3.2 0 0 0 1269.0,252.0" fill="none" stroke="#ffffff" stroke-width="1.2"/>
+<text x="1246.0" y="163.5" font-size="11.5" fill="#1f2937" fill-opacity="0.62">초안 → 사람 확인 후 발행</text>
+<circle cx="1234.0" cy="141.5" r="4.5" fill="#ffffff" stroke="#1f2937" stroke-opacity="0.5" stroke-width="1.6"/>
+<path d="M1243.5,228.0 H1407.5 A8,8 0 0 1 1415.5,236.0 V295.0 A8,8 0 0 1 1407.5,303.0 H1243.5 A8,8 0 0 1 1235.5,295.0 V236.0 A8,8 0 0 1 1243.5,228.0 Z" fill="#1f2937" fill-opacity="0.07"/>
+<path d="M1242.0,225.0 H1406.0 A8,8 0 0 1 1414.0,233.0 V292.0 A8,8 0 0 1 1406.0,300.0 H1242.0 A8,8 0 0 1 1234.0,292.0 V233.0 A8,8 0 0 1 1242.0,225.0 Z" fill="#ffffff" stroke="#dc2626" stroke-width="1.8"/>
+<rect x="1246.0" y="237.0" width="30" height="30" rx="7" fill="#dc2626" fill-opacity="0.13"/><path d="M1253.0,246.0 V258.0 A8,3.2 0 0 0 1269.0,258.0 V246.0" fill="#dc2626" fill-opacity="0.85"/><ellipse cx="1261.0" cy="246.0" rx="8" ry="3.2" fill="#dc2626"/><path d="M1253.0,252.0 A8,3.2 0 0 0 1269.0,252.0" fill="none" stroke="#ffffff" stroke-width="1.2"/>
 <text x="1284.0" y="256.5" font-size="14" font-weight="700" fill="#1f2937">거부함</text>
-<text x="1246.0" y="284.5" font-size="11.5" fill="#6b7280">거부 사유 기록</text>
-<circle cx="1234.0" cy="262.5" r="4.5" fill="#ffffff" stroke="#9aa3af" stroke-width="1.6"/>
-<circle cx="1414.0" cy="262.5" r="4.5" fill="#9aa3af"/>
-<rect x="1052.3" y="334.0" width="64.3" height="19" rx="9" fill="#ffffff" stroke="#d0d5dd"/>
-<text x="1084.5" y="348.0" text-anchor="middle" font-size="11" fill="#6b7280">1회 재생성</text>
+<text x="1246.0" y="284.5" font-size="11.5" fill="#1f2937" fill-opacity="0.62">거부 사유 기록</text>
+<circle cx="1234.0" cy="262.5" r="4.5" fill="#ffffff" stroke="#1f2937" stroke-opacity="0.5" stroke-width="1.6"/>
+<circle cx="1414.0" cy="262.5" r="4.5" fill="#1f2937" fill-opacity="0.5"/>
+<rect x="1052.3" y="334.0" width="64.3" height="19" rx="9" fill="#ffffff" stroke="#1f2937" stroke-opacity="0.24"/>
+<text x="1084.5" y="348.0" text-anchor="middle" font-size="11" fill="#1f2937" fill-opacity="0.62">1회 재생성</text>
 </svg>
