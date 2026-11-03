@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1220" height="282" viewBox="0 0 1220 282" font-family="&#x27;NanumSquare&#x27;,&#x27;Nanum Gothic&#x27;,&#x27;Apple SD Gothic Neo&#x27;,&#x27;Malgun Gothic&#x27;,sans-serif" role="img">
-<title>LLM 이 반론과 판정을 만들고 코드가 실측 줄과 인용을 검사해 걸러 내는 흐름</title>
+<title>제조사 모델이 반론과 판정을 만들고 코드가 실측 줄과 인용을 검사해 걸러 내는 흐름</title>
 <defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#1f2937" fill-opacity="0.20"/></pattern><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1f2937" fill-opacity="0.5"/></marker><marker id="ahw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker></defs>
 <rect width="1220" height="282" fill="#ffffff"/><rect width="1220" height="282" fill="url(#dots)"/>
 <text x="28" y="46" font-size="18" font-weight="700" fill="#1f2937">주장 반박과 줄 인용 판정</text>
@@ -19,7 +19,7 @@
 <path d="M290.0,74.0 H454.0 A8,8 0 0 1 462.0,82.0 V141.0 A8,8 0 0 1 454.0,149.0 H290.0 A8,8 0 0 1 282.0,141.0 V82.0 A8,8 0 0 1 290.0,74.0 Z" fill="#ffffff" stroke="#7c3aed" stroke-width="1.4"/>
 <rect x="294.0" y="86.0" width="30" height="30" rx="7" fill="#7c3aed" fill-opacity="0.13"/><path d="M309.0,90.0 Q310.5,99.5 320.0,101.0 Q310.5,102.5 309.0,112.0 Q307.5,102.5 298.0,101.0 Q307.5,99.5 309.0,90.0 Z" fill="#7c3aed"/>
 <text x="332.0" y="105.5" font-size="14" font-weight="700" fill="#1f2937">반론 생성</text>
-<text x="294.0" y="133.5" font-size="11.5" fill="#1f2937" fill-opacity="0.62">LLM 이 반박을 상상</text>
+<text x="294.0" y="133.5" font-size="11.5" fill="#1f2937" fill-opacity="0.62">제조사 모델이 반박을 상상</text>
 <circle cx="282.0" cy="111.5" r="4.5" fill="#ffffff" stroke="#1f2937" stroke-opacity="0.5" stroke-width="1.6"/>
 <circle cx="462.0" cy="111.5" r="4.5" fill="#1f2937" fill-opacity="0.5"/>
 <path d="M53.5,182.0 H217.5 A8,8 0 0 1 225.5,190.0 V249.0 A8,8 0 0 1 217.5,257.0 H53.5 A8,8 0 0 1 45.5,249.0 V190.0 A8,8 0 0 1 53.5,182.0 Z" fill="#1f2937" fill-opacity="0.07"/>

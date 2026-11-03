@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1220" height="261" viewBox="0 0 1220 261" font-family="&#x27;NanumSquare&#x27;,&#x27;Nanum Gothic&#x27;,&#x27;Apple SD Gothic Neo&#x27;,&#x27;Malgun Gothic&#x27;,sans-serif" role="img">
-<title>발표 수치와 SQL 실측을 LLM 해석에 넣고, 답 속 숫자 21개를 대조해 근거 없는 4개를 가려낸다</title>
+<title>발표 수치와 SQL 실측을 제조사 모델 해석에 넣고, 답 속 숫자 21개를 대조해 근거 없는 4개를 가려낸다</title>
 <defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#1f2937" fill-opacity="0.20"/></pattern><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1f2937" fill-opacity="0.5"/></marker><marker id="ahw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker></defs>
 <rect width="1220" height="261" fill="#ffffff"/><rect width="1220" height="261" fill="url(#dots)"/>
 <text x="28" y="46" font-size="18" font-weight="700" fill="#1f2937">발표 숫자 대조 흐름</text>
@@ -24,7 +24,7 @@
 <path d="M529.5,77.0 H693.5 A8,8 0 0 1 701.5,85.0 V144.0 A8,8 0 0 1 693.5,152.0 H529.5 A8,8 0 0 1 521.5,144.0 V85.0 A8,8 0 0 1 529.5,77.0 Z" fill="#1f2937" fill-opacity="0.07"/>
 <path d="M528.0,74.0 H692.0 A8,8 0 0 1 700.0,82.0 V141.0 A8,8 0 0 1 692.0,149.0 H528.0 A8,8 0 0 1 520.0,141.0 V82.0 A8,8 0 0 1 528.0,74.0 Z" fill="#ffffff" stroke="#7c3aed" stroke-width="1.4"/>
 <rect x="532.0" y="86.0" width="30" height="30" rx="7" fill="#7c3aed" fill-opacity="0.13"/><path d="M547.0,90.0 Q548.5,99.5 558.0,101.0 Q548.5,102.5 547.0,112.0 Q545.5,102.5 536.0,101.0 Q545.5,99.5 547.0,90.0 Z" fill="#7c3aed"/>
-<text x="570.0" y="105.5" font-size="14" font-weight="700" fill="#1f2937">LLM 해석</text>
+<text x="570.0" y="105.5" font-size="14" font-weight="700" fill="#1f2937">제조사 모델 해석</text>
 <text x="532.0" y="133.5" font-size="11.5" fill="#1f2937" fill-opacity="0.62">합산·비율을 상상</text>
 <circle cx="520.0" cy="111.5" r="4.5" fill="#ffffff" stroke="#1f2937" stroke-opacity="0.5" stroke-width="1.6"/>
 <circle cx="700.0" cy="111.5" r="4.5" fill="#1f2937" fill-opacity="0.5"/>
