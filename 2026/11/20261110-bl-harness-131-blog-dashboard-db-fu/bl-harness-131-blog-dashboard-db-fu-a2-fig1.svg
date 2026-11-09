@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="261" viewBox="0 0 1220 261" font-family="&#x27;NanumSquare&#x27;,&#x27;Nanum Gothic&#x27;,&#x27;Apple SD Gothic Neo&#x27;,&#x27;Malgun Gothic&#x27;,sans-serif" role="img">
+<title>실행 agent 의 원인 추측을 DB 조회가 대조해 번호 겹침 여덟 쌍으로 정정한 흐름</title>
+<defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#1f2937" fill-opacity="0.20"/></pattern><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1f2937" fill-opacity="0.5"/></marker><marker id="ahw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker></defs>
+<rect width="1220" height="261" fill="#ffffff"/><rect width="1220" height="261" fill="url(#dots)"/>
+<text x="28" y="46" font-size="18" font-weight="700" fill="#1f2937">원인 추측과 DB 조회 대조</text>
+<path d="M224.0,111.5 C264.0,111.5 239.0,111.5 279.0,111.5" fill="none" stroke="#1f2937" stroke-opacity="0.5" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M462.0,111.5 C502.0,111.5 477.0,111.5 517.0,111.5" fill="none" stroke="#1f2937" stroke-opacity="0.5" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M700.0,111.5 C740.0,111.5 715.0,111.5 755.0,111.5" fill="none" stroke="#1f2937" stroke-opacity="0.5" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M938.0,99.8 C978.0,99.8 953.0,206.0 993.0,206.0" fill="none" stroke="#1f2937" stroke-opacity="0.5" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M938.0,123.2 C978.0,123.2 953.0,111.5 993.0,111.5" fill="none" stroke="#dc2626" stroke-width="2" marker-end="url(#ahw)"/>
+<path d="M71.5,77.0 H217.5 A8,8 0 0 1 225.5,85.0 V144.0 A8,8 0 0 1 217.5,152.0 H71.5 A26,26 0 0 1 45.5,126.0 V103.0 A26,26 0 0 1 71.5,77.0 Z" fill="#1f2937" fill-opacity="0.07"/>
+<path d="M70.0,74.0 H216.0 A8,8 0 0 1 224.0,82.0 V141.0 A8,8 0 0 1 216.0,149.0 H70.0 A26,26 0 0 1 44.0,123.0 V100.0 A26,26 0 0 1 70.0,74.0 Z" fill="#ffffff" stroke="#2563eb" stroke-width="1.8"/>
+<rect x="62.0" y="86.0" width="30" height="30" rx="7" fill="#2563eb" fill-opacity="1"/><polygon points="79.0,90.0 70.0,103.0 76.0,103.0 74.0,112.0 84.0,98.0 78.0,98.0 80.0,90.0" fill="#ffffff"/>
+<text x="100.0" y="105.5" font-size="14" font-weight="700" fill="#1f2937">task 131 실행</text>
+<text x="62.0" y="133.5" font-size="11.5" fill="#1f2937" fill-opacity="0.62">최대 id 9, 파일 130</text>
+<circle cx="224.0" cy="111.5" r="4.5" fill="#1f2937" fill-opacity="0.5"/>
+<path d="M291.5,77.0 H455.5 A8,8 0 0 1 463.5,85.0 V144.0 A8,8 0 0 1 455.5,152.0 H291.5 A8,8 0 0 1 283.5,144.0 V85.0 A8,8 0 0 1 291.5,77.0 Z" fill="#1f2937" fill-opacity="0.07"/>
+<path d="M290.0,74.0 H454.0 A8,8 0 0 1 462.0,82.0 V141.0 A8,8 0 0 1 454.0,149.0 H290.0 A8,8 0 0 1 282.0,141.0 V82.0 A8,8 0 0 1 290.0,74.0 Z" fill="#ffffff" stroke="#7c3aed" stroke-width="1.4"/>
+<rect x="294.0" y="86.0" width="30" height="30" rx="7" fill="#7c3aed" fill-opacity="0.13"/><path d="M309.0,90.0 Q310.5,99.5 320.0,101.0 Q310.5,102.5 309.0,112.0 Q307.5,102.5 298.0,101.0 Q307.5,99.5 309.0,90.0 Z" fill="#7c3aed"/>
+<text x="332.0" y="105.5" font-size="14" font-weight="700" fill="#1f2937">원인 추측</text>
+<text x="294.0" y="133.5" font-size="11.5" fill="#1f2937" fill-opacity="0.62">60개 어긋남이라 보고</text>
+<circle cx="282.0" cy="111.5" r="4.5" fill="#ffffff" stroke="#1f2937" stroke-opacity="0.5" stroke-width="1.6"/>
+<circle cx="462.0" cy="111.5" r="4.5" fill="#1f2937" fill-opacity="0.5"/>
+<path d="M529.5,77.0 H693.5 A8,8 0 0 1 701.5,85.0 V144.0 A8,8 0 0 1 693.5,152.0 H529.5 A8,8 0 0 1 521.5,144.0 V85.0 A8,8 0 0 1 529.5,77.0 Z" fill="#1f2937" fill-opacity="0.07"/>
+<path d="M528.0,74.0 H692.0 A8,8 0 0 1 700.0,82.0 V141.0 A8,8 0 0 1 692.0,149.0 H528.0 A8,8 0 0 1 520.0,141.0 V82.0 A8,8 0 0 1 528.0,74.0 Z" fill="#ffffff" stroke="#1f2937" stroke-opacity="0.24" stroke-width="1"/>
+<rect x="532.0" y="86.0" width="30" height="30" rx="7" fill="#2563eb" fill-opacity="0.13"/><path d="M539.0,95.0 V107.0 A8,3.2 0 0 0 555.0,107.0 V95.0" fill="#2563eb" fill-opacity="0.85"/><ellipse cx="547.0" cy="95.0" rx="8" ry="3.2" fill="#2563eb"/><path d="M539.0,101.0 A8,3.2 0 0 0 555.0,101.0" fill="none" stroke="#ffffff" stroke-width="1.2"/>
+<text x="570.0" y="105.5" font-size="14" font-weight="700" fill="#1f2937">DB 조회</text>
+<text x="532.0" y="133.5" font-size="11.5" fill="#1f2937" fill-opacity="0.62">116행, 최대 id 131</text>
+<circle cx="520.0" cy="111.5" r="4.5" fill="#ffffff" stroke="#1f2937" stroke-opacity="0.5" stroke-width="1.6"/>
+<circle cx="700.0" cy="111.5" r="4.5" fill="#1f2937" fill-opacity="0.5"/>
+<path d="M767.5,79.5 H931.5 A8,8 0 0 1 939.5,87.5 V141.5 A8,8 0 0 1 931.5,149.5 H767.5 A8,8 0 0 1 759.5,141.5 V87.5 A8,8 0 0 1 767.5,79.5 Z" fill="#1f2937" fill-opacity="0.07"/>
+<path d="M766.0,76.5 H930.0 A8,8 0 0 1 938.0,84.5 V138.5 A8,8 0 0 1 930.0,146.5 H766.0 A8,8 0 0 1 758.0,138.5 V84.5 A8,8 0 0 1 766.0,76.5 Z" fill="#ffffff" stroke="#1f2937" stroke-opacity="0.24" stroke-width="1"/>
+<rect x="770.0" y="88.5" width="30" height="30" rx="7" fill="#2563eb" fill-opacity="0.13"/><polygon points="785.0,93.5 795.0,103.5 785.0,113.5 775.0,103.5" fill="none" stroke="#2563eb" stroke-width="2.6"/><circle cx="785.0" cy="103.5" r="2.2" fill="#2563eb"/>
+<text x="808.0" y="108.0" font-size="14" font-weight="700" fill="#1f2937">추측과 일치?</text>
+<circle cx="758.0" cy="111.5" r="4.5" fill="#ffffff" stroke="#1f2937" stroke-opacity="0.5" stroke-width="1.6"/>
+<circle cx="938.0" cy="99.8" r="4.5" fill="#1f2937" fill-opacity="0.5"/>
+<text x="946.0" y="92.8" font-size="11" font-weight="700" fill="#1f2937" fill-opacity="0.62">true</text>
+<circle cx="938.0" cy="123.2" r="4.5" fill="#dc2626"/>
+<text x="946.0" y="116.2" font-size="11" font-weight="700" fill="#dc2626">false</text>
+<path d="M1005.5,77.0 H1169.5 A8,8 0 0 1 1177.5,85.0 V144.0 A8,8 0 0 1 1169.5,152.0 H1005.5 A8,8 0 0 1 997.5,144.0 V85.0 A8,8 0 0 1 1005.5,77.0 Z" fill="#1f2937" fill-opacity="0.07"/>
+<path d="M1004.0,74.0 H1168.0 A8,8 0 0 1 1176.0,82.0 V141.0 A8,8 0 0 1 1168.0,149.0 H1004.0 A8,8 0 0 1 996.0,141.0 V82.0 A8,8 0 0 1 1004.0,74.0 Z" fill="#ffffff" stroke="#dc2626" stroke-width="1.8"/>
+<rect x="1008.0" y="86.0" width="30" height="30" rx="7" fill="#dc2626" fill-opacity="0.13"/><circle cx="1023.0" cy="101.0" r="7.5" fill="none" stroke="#dc2626" stroke-width="3" stroke-dasharray="3.2 2.2"/><circle cx="1023.0" cy="101.0" r="3" fill="#dc2626"/>
+<text x="1046.0" y="105.5" font-size="14" font-weight="700" fill="#1f2937">정정 기록</text>
+<text x="1008.0" y="133.5" font-size="11.5" fill="#1f2937" fill-opacity="0.62">번호 겹침 여덟 쌍</text>
+<circle cx="996.0" cy="111.5" r="4.5" fill="#ffffff" stroke="#1f2937" stroke-opacity="0.5" stroke-width="1.6"/>
+<path d="M1005.5,182.0 H1151.5 A26,26 0 0 1 1177.5,208.0 V210.0 A26,26 0 0 1 1151.5,236.0 H1005.5 A8,8 0 0 1 997.5,228.0 V190.0 A8,8 0 0 1 1005.5,182.0 Z" fill="#1f2937" fill-opacity="0.07"/>
+<path d="M1004.0,179.0 H1150.0 A26,26 0 0 1 1176.0,205.0 V207.0 A26,26 0 0 1 1150.0,233.0 H1004.0 A8,8 0 0 1 996.0,225.0 V187.0 A8,8 0 0 1 1004.0,179.0 Z" fill="#ffffff" stroke="#2563eb" stroke-width="1.8"/>
+<rect x="1008.0" y="191.0" width="30" height="30" rx="7" fill="#2563eb" fill-opacity="1"/><polygon points="1015.0,198.0 1033.0,206.0 1015.0,214.0 1018.5,206.0" fill="#ffffff"/>
+<text x="1046.0" y="210.5" font-size="14" font-weight="700" fill="#1f2937">추측 채택</text>
+<circle cx="996.0" cy="206.0" r="4.5" fill="#ffffff" stroke="#1f2937" stroke-opacity="0.5" stroke-width="1.6"/>
+</svg>
