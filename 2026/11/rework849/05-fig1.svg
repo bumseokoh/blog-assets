@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 648 438" width="648" height="438" role="img" aria-label="단위 테스트, 고정 지표, 채점 기준표, 통합 테스트가 아래에서 위로 차례로 쌓이는 네 겹 검사 구조" font-family='"Pretendard","Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic","맑은 고딕",sans-serif'>
+<title>단위 테스트, 고정 지표, 채점 기준표, 통합 테스트가 아래에서 위로 차례로 쌓이는 네 겹 검사 구조</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5f6368"/></marker></defs>
+<rect width="648" height="438" fill="#ffffff"/>
+<rect x="24.0" y="358.0" width="600.0" height="56.0" rx="10" fill="#ffffff" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="324.0" y="395.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="middle">단위 테스트</text>
+<rect x="24.0" y="244.0" width="600.0" height="56.0" rx="10" fill="#ffffff" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="324.0" y="281.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="middle">고정 지표</text>
+<rect x="24.0" y="130.0" width="600.0" height="56.0" rx="10" fill="#e8f0fa" stroke="#1c5aa6" stroke-width="2" data-mark="node"/>
+<text x="324.0" y="167.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="middle">채점 기준표</text>
+<rect x="24.0" y="16.0" width="600.0" height="56.0" rx="10" fill="#e6f2eb" stroke="#17663f" stroke-width="2" data-mark="node"/>
+<text x="324.0" y="53.0" font-size="26" font-weight="700" fill="#17663f" text-anchor="middle">통합 테스트</text>
+<text x="324.0" y="341.0" font-size="34" font-weight="700" fill="#5f6368" text-anchor="middle">→</text>
+<text x="324.0" y="227.0" font-size="34" font-weight="700" fill="#5f6368" text-anchor="middle">→</text>
+<text x="324.0" y="113.0" font-size="34" font-weight="700" fill="#5f6368" text-anchor="middle">→</text>
+</svg>

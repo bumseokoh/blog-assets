@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 648 528" width="648" height="528" role="img" aria-label="위쪽은 npx 한 줄로 바로 웹 화면이 열리는 흐름, 아래쪽은 저장소 받기, 설치, 빌드를 거쳐 웹 화면을 실행하는 흐름" font-family='"Pretendard","Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic","맑은 고딕",sans-serif'>
+<title>위쪽은 npx 한 줄로 바로 웹 화면이 열리는 흐름, 아래쪽은 저장소 받기, 설치, 빌드를 거쳐 웹 화면을 실행하는 흐름</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5f6368"/></marker></defs>
+<rect width="648" height="528" fill="#ffffff"/>
+<text x="168.0" y="38.0" font-size="28" font-weight="700" fill="#24272b" text-anchor="middle">npx 실행</text>
+<line x1="24.0" y1="50.0" x2="312.0" y2="50.0" stroke="#c9cdd3" stroke-width="2"/>
+<rect x="24.0" y="66.0" width="288.0" height="56.0" rx="10" fill="#e8f0fa" stroke="#1c5aa6" stroke-width="2" data-mark="node"/>
+<text x="168.0" y="103.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="middle">npx dsh web</text>
+<line x1="168.0" y1="126.0" x2="168.0" y2="158.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="24.0" y="162.0" width="288.0" height="56.0" rx="10" fill="#e6f2eb" stroke="#17663f" stroke-width="2" data-mark="node"/>
+<text x="168.0" y="199.0" font-size="26" font-weight="700" fill="#17663f" text-anchor="middle">Web UI</text>
+<text x="480.0" y="38.0" font-size="28" font-weight="700" fill="#24272b" text-anchor="middle">소스 실행</text>
+<line x1="336.0" y1="50.0" x2="624.0" y2="50.0" stroke="#c9cdd3" stroke-width="2"/>
+<rect x="336.0" y="66.0" width="288.0" height="56.0" rx="10" fill="#f1f3f4" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="480.0" y="103.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="middle">git clone</text>
+<line x1="480.0" y1="126.0" x2="480.0" y2="158.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="336.0" y="162.0" width="288.0" height="56.0" rx="10" fill="#f1f3f4" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="480.0" y="199.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="middle">pnpm install</text>
+<line x1="480.0" y1="222.0" x2="480.0" y2="254.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="336.0" y="258.0" width="288.0" height="56.0" rx="10" fill="#f1f3f4" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="480.0" y="295.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="middle">pnpm run build</text>
+<line x1="480.0" y1="318.0" x2="480.0" y2="350.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="336.0" y="354.0" width="288.0" height="56.0" rx="10" fill="#e8f0fa" stroke="#1c5aa6" stroke-width="2" data-mark="node"/>
+<text x="480.0" y="391.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="middle">pnpm dsh web</text>
+<line x1="480.0" y1="414.0" x2="480.0" y2="446.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="336.0" y="450.0" width="288.0" height="56.0" rx="10" fill="#e6f2eb" stroke="#17663f" stroke-width="2" data-mark="node"/>
+<text x="480.0" y="487.0" font-size="26" font-weight="700" fill="#17663f" text-anchor="middle">Web UI</text>
+</svg>

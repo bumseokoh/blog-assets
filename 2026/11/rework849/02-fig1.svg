@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 648 252" width="648" height="252" role="img" aria-label="key-fact coverage 막대그래프: graphify 대비 grep/read(만든 곳 발표, 표본 6건)" font-family='"Pretendard","Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic","맑은 고딕",sans-serif'>
+<title>key-fact coverage 막대그래프: graphify 대비 grep/read(만든 곳 발표, 표본 6건)</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5f6368"/></marker></defs>
+<rect width="648" height="252" fill="#ffffff"/>
+<rect x="24.0" y="22.0" width="26.0" height="26.0" rx="4" fill="#b9bec6" data-mark="legend"/>
+<text x="58.0" y="44.0" font-size="25" fill="#5f6368">graphify</text>
+<rect x="189.7" y="22.0" width="26.0" height="26.0" rx="4" fill="#1c5aa6" data-mark="legend"/>
+<text x="223.7" y="44.0" font-size="25" fill="#5f6368">grep/read</text>
+<text x="24.0" y="92.0" font-size="26" font-weight="700" fill="#24272b">key-fact coverage</text>
+<text x="624.0" y="92.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="end" data-derived="1">약 13.7% 낮음</text>
+<rect x="24.0" y="106.0" width="493.1" height="34.0" rx="4" fill="#b9bec6" data-mark="bar"/>
+<text x="527.1" y="133.0" font-size="28" font-weight="700" fill="#24272b">82%</text>
+<rect x="24.0" y="148.0" width="425.7" height="34.0" rx="4" fill="#1c5aa6" data-mark="bar"/>
+<text x="459.7" y="175.0" font-size="28" font-weight="700" fill="#1c5aa6">70.8%</text>
+<text x="24.0" y="232.0" font-size="25" fill="#5f6368">만든 곳 발표, 표본 6건</text>
+</svg>

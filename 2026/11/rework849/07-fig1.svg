@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 648 466" width="648" height="466" role="img" aria-label="입구가 서명 검증과 형식 변환 뒤 큐에 넣고 200 OK를 응답하면, 세션 저장과 에이전트 처리가 이어지는 세 층 흐름" font-family='"Pretendard","Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic","맑은 고딕",sans-serif'>
+<title>입구가 서명 검증과 형식 변환 뒤 큐에 넣고 200 OK를 응답하면, 세션 저장과 에이전트 처리가 이어지는 세 층 흐름</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5f6368"/></marker></defs>
+<rect width="648" height="466" fill="#ffffff"/>
+<text x="168.0" y="38.0" font-size="28" font-weight="700" fill="#24272b" text-anchor="middle">입구</text>
+<line x1="24.0" y1="50.0" x2="312.0" y2="50.0" stroke="#c9cdd3" stroke-width="2"/>
+<rect x="24.0" y="66.0" width="288.0" height="56.0" rx="10" fill="#f1f3f4" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="168.0" y="103.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="middle">웹훅 수신</text>
+<line x1="168.0" y1="126.0" x2="168.0" y2="158.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="24.0" y="162.0" width="288.0" height="56.0" rx="10" fill="#f1f3f4" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="168.0" y="199.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="middle">서명 검증</text>
+<line x1="168.0" y1="222.0" x2="168.0" y2="254.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="24.0" y="258.0" width="288.0" height="56.0" rx="10" fill="#e8f0fa" stroke="#1c5aa6" stroke-width="2" data-mark="node"/>
+<text x="168.0" y="295.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="middle">큐 적재</text>
+<line x1="168.0" y1="318.0" x2="93.5" y2="350.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<line x1="168.0" y1="318.0" x2="242.5" y2="350.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="24.0" y="354.0" width="139.0" height="56.0" rx="10" fill="#e6f2eb" stroke="#17663f" stroke-width="2" data-mark="node"/>
+<text x="93.5" y="391.0" font-size="25" font-weight="700" fill="#17663f" text-anchor="middle">200 OK</text>
+<rect x="173.0" y="354.0" width="139.0" height="90.0" rx="10" fill="#f1f3f4" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="242.5" y="391.0" font-size="25" font-weight="700" fill="#24272b" text-anchor="middle">뒤에서</text>
+<text x="242.5" y="425.0" font-size="25" font-weight="700" fill="#24272b" text-anchor="middle">처리</text>
+<text x="480.0" y="38.0" font-size="28" font-weight="700" fill="#24272b" text-anchor="middle">뒤 층</text>
+<line x1="336.0" y1="50.0" x2="624.0" y2="50.0" stroke="#c9cdd3" stroke-width="2"/>
+<rect x="336.0" y="66.0" width="288.0" height="56.0" rx="10" fill="#f1f3f4" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="480.0" y="103.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="middle">Redis 세션</text>
+<line x1="480.0" y1="126.0" x2="480.0" y2="158.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="336.0" y="162.0" width="288.0" height="56.0" rx="10" fill="#e8f0fa" stroke="#1c5aa6" stroke-width="2" data-mark="node"/>
+<text x="480.0" y="199.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="middle">에이전트</text>
+</svg>

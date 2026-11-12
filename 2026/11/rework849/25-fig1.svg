@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 648 220" width="648" height="220" role="img" aria-label="재시도 후 글자수 막대그래프: 전체 재작성 대비 편집형" font-family='"Pretendard","Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic","맑은 고딕",sans-serif'>
+<title>재시도 후 글자수 막대그래프: 전체 재작성 대비 편집형</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5f6368"/></marker></defs>
+<rect width="648" height="220" fill="#ffffff"/>
+<rect x="24.0" y="22.0" width="26.0" height="26.0" rx="4" fill="#b9bec6" data-mark="legend"/>
+<text x="58.0" y="44.0" font-size="25" fill="#5f6368">전체 재작성</text>
+<rect x="218.0" y="22.0" width="26.0" height="26.0" rx="4" fill="#1c5aa6" data-mark="legend"/>
+<text x="252.0" y="44.0" font-size="25" fill="#5f6368">편집형</text>
+<text x="24.0" y="92.0" font-size="26" font-weight="700" fill="#24272b">재시도 후 글자수</text>
+<text x="624.0" y="92.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="end" data-derived="1">약 33.4% 높음</text>
+<rect x="24.0" y="106.0" width="355.1" height="34.0" rx="4" fill="#b9bec6" data-mark="bar"/>
+<text x="389.1" y="133.0" font-size="28" font-weight="700" fill="#24272b">1,410자</text>
+<rect x="24.0" y="148.0" width="473.8" height="34.0" rx="4" fill="#1c5aa6" data-mark="bar"/>
+<text x="507.8" y="175.0" font-size="28" font-weight="700" fill="#1c5aa6">1,881자</text>
+</svg>

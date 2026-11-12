@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 648 220" width="648" height="220" role="img" aria-label="초안의 근거 없는 문장 수 막대그래프: 이전 시도 대비 이번 초안 중 최대" font-family='"Pretendard","Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic","맑은 고딕",sans-serif'>
+<title>초안의 근거 없는 문장 수 막대그래프: 이전 시도 대비 이번 초안 중 최대</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5f6368"/></marker></defs>
+<rect width="648" height="220" fill="#ffffff"/>
+<rect x="24.0" y="22.0" width="26.0" height="26.0" rx="4" fill="#b9bec6" data-mark="legend"/>
+<text x="58.0" y="44.0" font-size="25" fill="#5f6368">이전 시도</text>
+<rect x="193.0" y="22.0" width="26.0" height="26.0" rx="4" fill="#1c5aa6" data-mark="legend"/>
+<text x="227.0" y="44.0" font-size="25" fill="#5f6368">이번 초안 중 최대</text>
+<text x="24.0" y="92.0" font-size="26" font-weight="700" fill="#24272b">초안의 근거 없는 문장 수</text>
+<text x="624.0" y="92.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="end" data-derived="1">약 73.3% 낮음</text>
+<rect x="24.0" y="106.0" width="520.4" height="34.0" rx="4" fill="#b9bec6" data-mark="bar"/>
+<text x="554.4" y="133.0" font-size="28" font-weight="700" fill="#24272b">15개</text>
+<rect x="24.0" y="148.0" width="138.8" height="34.0" rx="4" fill="#1c5aa6" data-mark="bar"/>
+<text x="172.8" y="175.0" font-size="28" font-weight="700" fill="#1c5aa6">4개</text>
+</svg>

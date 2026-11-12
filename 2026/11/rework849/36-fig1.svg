@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 648 556" width="648" height="556" role="img" aria-label="Claude Fable 백만 토큰당 입력 금액·출력 금액·캐시 읽기 금액 막대그래프: Claude Fable 5.1 대비 Claude Fable 5.2" font-family='"Pretendard","Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic","맑은 고딕",sans-serif'>
+<title>Claude Fable 백만 토큰당 입력 금액·출력 금액·캐시 읽기 금액 막대그래프: Claude Fable 5.1 대비 Claude Fable 5.2</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5f6368"/></marker></defs>
+<rect width="648" height="556" fill="#ffffff"/>
+<text x="24.0" y="34.0" font-size="28" font-weight="700" fill="#24272b">Claude Fable 백만 토큰당</text>
+<rect x="24.0" y="62.0" width="26.0" height="26.0" rx="4" fill="#b9bec6" data-mark="legend"/>
+<text x="58.0" y="84.0" font-size="25" fill="#5f6368">Claude Fable 5.1</text>
+<rect x="291.8" y="62.0" width="26.0" height="26.0" rx="4" fill="#1c5aa6" data-mark="legend"/>
+<text x="325.8" y="84.0" font-size="25" fill="#5f6368">Claude Fable 5.2</text>
+<text x="24.0" y="132.0" font-size="26" font-weight="700" fill="#24272b">입력 금액</text>
+<text x="624.0" y="132.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="end" data-derived="1">20% 낮음</text>
+<rect x="24.0" y="146.0" width="501.2" height="34.0" rx="4" fill="#b9bec6" data-mark="bar"/>
+<text x="535.2" y="173.0" font-size="28" font-weight="700" fill="#24272b">$10</text>
+<rect x="24.0" y="188.0" width="401.0" height="34.0" rx="4" fill="#1c5aa6" data-mark="bar"/>
+<text x="435.0" y="215.0" font-size="28" font-weight="700" fill="#1c5aa6">$8</text>
+<text x="24.0" y="280.0" font-size="26" font-weight="700" fill="#24272b">출력 금액</text>
+<text x="624.0" y="280.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="end" data-derived="1">20% 낮음</text>
+<rect x="24.0" y="294.0" width="501.2" height="34.0" rx="4" fill="#b9bec6" data-mark="bar"/>
+<text x="535.2" y="321.0" font-size="28" font-weight="700" fill="#24272b">$50</text>
+<rect x="24.0" y="336.0" width="401.0" height="34.0" rx="4" fill="#1c5aa6" data-mark="bar"/>
+<text x="435.0" y="363.0" font-size="28" font-weight="700" fill="#1c5aa6">$40</text>
+<text x="24.0" y="428.0" font-size="26" font-weight="700" fill="#24272b">캐시 읽기 금액</text>
+<text x="624.0" y="428.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="end" data-derived="1">20% 낮음</text>
+<rect x="24.0" y="442.0" width="501.2" height="34.0" rx="4" fill="#b9bec6" data-mark="bar"/>
+<text x="535.2" y="469.0" font-size="28" font-weight="700" fill="#24272b">$0.25</text>
+<rect x="24.0" y="484.0" width="401.0" height="34.0" rx="4" fill="#1c5aa6" data-mark="bar"/>
+<text x="435.0" y="511.0" font-size="28" font-weight="700" fill="#1c5aa6">$0.20</text>
+</svg>
