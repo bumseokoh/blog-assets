@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 648 370" width="648" height="370" role="img" aria-label="변경 전에는 값을 빼면 HTTP 400 오류가 나고, 변경 후에는 값을 빼도 실행되어 생성마다 최대 128,000 출력 토큰이 되는 흐름 비교" font-family='"Pretendard","Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic","맑은 고딕",sans-serif'>
+<title>변경 전에는 값을 빼면 HTTP 400 오류가 나고, 변경 후에는 값을 빼도 실행되어 생성마다 최대 128,000 출력 토큰이 되는 흐름 비교</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5f6368"/></marker></defs>
+<rect width="648" height="370" fill="#ffffff"/>
+<text x="168.0" y="38.0" font-size="28" font-weight="700" fill="#24272b" text-anchor="middle">변경 전</text>
+<line x1="24.0" y1="50.0" x2="312.0" y2="50.0" stroke="#c9cdd3" stroke-width="2"/>
+<rect x="24.0" y="66.0" width="288.0" height="56.0" rx="10" fill="#f1f3f4" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="168.0" y="103.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="middle">anthropic/*</text>
+<line x1="168.0" y1="126.0" x2="168.0" y2="158.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="24.0" y="162.0" width="288.0" height="56.0" rx="10" fill="#e8f0fa" stroke="#1c5aa6" stroke-width="2" data-mark="node"/>
+<text x="168.0" y="199.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="middle">값 생략</text>
+<line x1="168.0" y1="222.0" x2="93.5" y2="254.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<line x1="168.0" y1="222.0" x2="242.5" y2="254.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="24.0" y="258.0" width="139.0" height="90.0" rx="10" fill="#fbe9e7" stroke="#b3261e" stroke-width="2" data-mark="node"/>
+<text x="93.5" y="295.0" font-size="25" font-weight="700" fill="#b3261e" text-anchor="middle">HTTP</text>
+<text x="93.5" y="329.0" font-size="25" font-weight="700" fill="#b3261e" text-anchor="middle">400</text>
+<rect x="173.0" y="258.0" width="139.0" height="56.0" rx="10" fill="#f1f3f4" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="242.5" y="295.0" font-size="25" font-weight="700" fill="#24272b" text-anchor="middle">값 필수</text>
+<text x="480.0" y="38.0" font-size="28" font-weight="700" fill="#24272b" text-anchor="middle">변경 후</text>
+<line x1="336.0" y1="50.0" x2="624.0" y2="50.0" stroke="#c9cdd3" stroke-width="2"/>
+<rect x="336.0" y="66.0" width="288.0" height="56.0" rx="10" fill="#f1f3f4" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="480.0" y="103.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="middle">모든 모델</text>
+<line x1="480.0" y1="126.0" x2="480.0" y2="158.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="336.0" y="162.0" width="288.0" height="56.0" rx="10" fill="#e8f0fa" stroke="#1c5aa6" stroke-width="2" data-mark="node"/>
+<text x="480.0" y="199.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="middle">값 생략</text>
+<line x1="480.0" y1="222.0" x2="405.5" y2="254.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<line x1="480.0" y1="222.0" x2="554.5" y2="254.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="336.0" y="258.0" width="139.0" height="56.0" rx="10" fill="#e6f2eb" stroke="#17663f" stroke-width="2" data-mark="node"/>
+<text x="405.5" y="295.0" font-size="25" font-weight="700" fill="#17663f" text-anchor="middle">실행됨</text>
+<rect x="485.0" y="258.0" width="139.0" height="90.0" rx="10" fill="#e6f2eb" stroke="#17663f" stroke-width="2" data-mark="node"/>
+<text x="554.5" y="295.0" font-size="25" font-weight="700" fill="#17663f" text-anchor="middle">최대</text>
+<text x="554.5" y="329.0" font-size="25" font-weight="700" fill="#17663f" text-anchor="middle">128,000</text>
+</svg>
