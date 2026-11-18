@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 648 711" width="648" height="711" role="img" aria-label="밤사이 일정 시간축. 22:00 자료 수집, 00:00 DB 백업, 02:00과 04:00 자료 수집, 05:00 일일 작업, 09:07 점검 보고서 순서이며 간격은 실제 시간에 비례한다." font-family='"Pretendard","Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic","맑은 고딕",sans-serif'>
+<title>밤사이 일정 시간축. 22:00 자료 수집, 00:00 DB 백업, 02:00과 04:00 자료 수집, 05:00 일일 작업, 09:07 점검 보고서 순서이며 간격은 실제 시간에 비례한다.</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5f6368"/></marker></defs>
+<rect width="648" height="711" fill="#ffffff"/>
+<text x="24.0" y="30.0" font-size="28" font-weight="700" fill="#24272b">밤사이 일정(한국 시간)</text>
+<line x1="190" y1="70.0" x2="190" y2="670.3" stroke="#c9cdd3" stroke-width="4" data-mark="axis"/>
+<circle cx="190" cy="70.0" r="9" fill="#c9cdd3" data-mark="dot"/>
+<text x="168.0" y="79.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="end">22:00</text>
+<rect x="214.0" y="49.0" width="380.0" height="42.0" rx="10" fill="#f1f3f4" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="404.0" y="79.0" font-size="25" font-weight="700" fill="#24272b" text-anchor="middle">자료 수집</text>
+<circle cx="190" cy="178.0" r="9" fill="#c9cdd3" data-mark="dot"/>
+<text x="168.0" y="187.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="end">00:00</text>
+<rect x="214.0" y="157.0" width="380.0" height="42.0" rx="10" fill="#f1f3f4" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="404.0" y="187.0" font-size="25" font-weight="700" fill="#24272b" text-anchor="middle">DB 백업</text>
+<circle cx="190" cy="286.0" r="9" fill="#c9cdd3" data-mark="dot"/>
+<text x="168.0" y="295.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="end">02:00</text>
+<rect x="214.0" y="265.0" width="380.0" height="42.0" rx="10" fill="#f1f3f4" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="404.0" y="295.0" font-size="25" font-weight="700" fill="#24272b" text-anchor="middle">자료 수집</text>
+<circle cx="190" cy="394.0" r="9" fill="#c9cdd3" data-mark="dot"/>
+<text x="168.0" y="403.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="end">04:00</text>
+<rect x="214.0" y="373.0" width="380.0" height="42.0" rx="10" fill="#f1f3f4" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="404.0" y="403.0" font-size="25" font-weight="700" fill="#24272b" text-anchor="middle">자료 수집</text>
+<circle cx="190" cy="448.0" r="9" fill="#1c5aa6" data-mark="dot"/>
+<text x="168.0" y="457.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="end">05:00</text>
+<rect x="214.0" y="427.0" width="380.0" height="42.0" rx="10" fill="#e8f0fa" stroke="#1c5aa6" stroke-width="2" data-mark="node"/>
+<text x="404.0" y="457.0" font-size="25" font-weight="700" fill="#1c5aa6" text-anchor="middle">일일 작업</text>
+<circle cx="190" cy="670.3" r="9" fill="#17663f" data-mark="dot"/>
+<text x="168.0" y="679.3" font-size="26" font-weight="700" fill="#24272b" text-anchor="end">09:07</text>
+<rect x="214.0" y="649.3" width="380.0" height="42.0" rx="10" fill="#e6f2eb" stroke="#17663f" stroke-width="2" data-mark="node"/>
+<text x="404.0" y="679.3" font-size="25" font-weight="700" fill="#17663f" text-anchor="middle">점검 보고서</text>
+</svg>
