@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 648 562" width="648" height="562" role="img" aria-label="Fable이 분석과 지시문 작성을 하고 Opus와 Sonnet·Haiku가 실행한 뒤 Fable이 완료 보고를 검수하는 흐름도" font-family='"Pretendard","Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic","맑은 고딕",sans-serif'>
+<title>Fable이 분석과 지시문 작성을 하고 Opus와 Sonnet·Haiku가 실행한 뒤 Fable이 완료 보고를 검수하는 흐름도</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5f6368"/></marker></defs>
+<rect width="648" height="562" fill="#ffffff"/>
+<text x="168.0" y="38.0" font-size="28" font-weight="700" fill="#24272b" text-anchor="middle">계획</text>
+<line x1="24.0" y1="50.0" x2="312.0" y2="50.0" stroke="#c9cdd3" stroke-width="2"/>
+<rect x="24.0" y="66.0" width="288.0" height="56.0" rx="10" fill="#f1f3f4" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="168.0" y="103.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="middle">요청</text>
+<line x1="168.0" y1="126.0" x2="168.0" y2="158.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="24.0" y="162.0" width="288.0" height="56.0" rx="10" fill="#e8f0fa" stroke="#1c5aa6" stroke-width="2" data-mark="node"/>
+<text x="168.0" y="199.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="middle">Fable 분석</text>
+<line x1="168.0" y1="222.0" x2="168.0" y2="254.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="24.0" y="258.0" width="288.0" height="56.0" rx="10" fill="#e8f0fa" stroke="#1c5aa6" stroke-width="2" data-mark="node"/>
+<text x="168.0" y="295.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="middle">작업 쪼개기</text>
+<line x1="168.0" y1="318.0" x2="168.0" y2="350.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="24.0" y="354.0" width="288.0" height="56.0" rx="10" fill="#e8f0fa" stroke="#1c5aa6" stroke-width="2" data-mark="node"/>
+<text x="168.0" y="391.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="middle">지시문</text>
+<line x1="168.0" y1="414.0" x2="93.5" y2="446.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<line x1="168.0" y1="414.0" x2="242.5" y2="446.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="24.0" y="450.0" width="139.0" height="90.0" rx="10" fill="#f1f3f4" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="93.5" y="487.0" font-size="25" font-weight="700" fill="#24272b" text-anchor="middle">Opus</text>
+<text x="93.5" y="521.0" font-size="25" font-weight="700" fill="#24272b" text-anchor="middle">난이도</text>
+<rect x="173.0" y="450.0" width="139.0" height="90.0" rx="10" fill="#f1f3f4" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="242.5" y="487.0" font-size="18" font-weight="700" fill="#24272b" text-anchor="middle">Sonnet·Haiku</text>
+<text x="242.5" y="521.0" font-size="25" font-weight="700" fill="#24272b" text-anchor="middle">단순</text>
+<text x="480.0" y="38.0" font-size="28" font-weight="700" fill="#24272b" text-anchor="middle">검수</text>
+<line x1="336.0" y1="50.0" x2="624.0" y2="50.0" stroke="#c9cdd3" stroke-width="2"/>
+<rect x="336.0" y="66.0" width="288.0" height="56.0" rx="10" fill="#f1f3f4" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="480.0" y="103.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="middle">완료 보고</text>
+<line x1="480.0" y1="126.0" x2="480.0" y2="158.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="336.0" y="162.0" width="288.0" height="56.0" rx="10" fill="#e8f0fa" stroke="#1c5aa6" stroke-width="2" data-mark="node"/>
+<text x="480.0" y="199.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="middle">Fable 검수</text>
+<line x1="480.0" y1="222.0" x2="405.5" y2="254.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<line x1="480.0" y1="222.0" x2="554.5" y2="254.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="336.0" y="258.0" width="139.0" height="56.0" rx="10" fill="#e6f2eb" stroke="#17663f" stroke-width="2" data-mark="node"/>
+<text x="405.5" y="295.0" font-size="25" font-weight="700" fill="#17663f" text-anchor="middle">합격</text>
+<rect x="485.0" y="258.0" width="139.0" height="56.0" rx="10" fill="#fbe9e7" stroke="#b3261e" stroke-width="2" data-mark="node"/>
+<text x="554.5" y="295.0" font-size="25" font-weight="700" fill="#b3261e" text-anchor="middle">불합격</text>
+</svg>
