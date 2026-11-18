@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 648 432" width="648" height="432" role="img" aria-label="산출물 생성과 수정 흐름도. 소스와 변경 이력을 근거 데이터로 모아 pptx·xlsx를 생성하고 검사 도구로 확인한다. 고칠 때는 원천 데이터를 고치고 git diff로 바뀐 소스와 연결된 문서만 골라 다시 생성한다." font-family='"Pretendard","Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic","맑은 고딕",sans-serif'>
+<title>산출물 생성과 수정 흐름도. 소스와 변경 이력을 근거 데이터로 모아 pptx·xlsx를 생성하고 검사 도구로 확인한다. 고칠 때는 원천 데이터를 고치고 git diff로 바뀐 소스와 연결된 문서만 골라 다시 생성한다.</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5f6368"/></marker></defs>
+<rect width="648" height="432" fill="#ffffff"/>
+<text x="168.0" y="38.0" font-size="28" font-weight="700" fill="#24272b" text-anchor="middle">만들 때</text>
+<line x1="24.0" y1="50.0" x2="312.0" y2="50.0" stroke="#c9cdd3" stroke-width="2"/>
+<rect x="24.0" y="66.0" width="288.0" height="56.0" rx="10" fill="#f1f3f4" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="168.0" y="103.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="middle">소스·변경 이력</text>
+<line x1="168.0" y1="126.0" x2="168.0" y2="158.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="24.0" y="162.0" width="288.0" height="56.0" rx="10" fill="#e8f0fa" stroke="#1c5aa6" stroke-width="2" data-mark="node"/>
+<text x="168.0" y="199.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="middle">근거 데이터</text>
+<line x1="168.0" y1="222.0" x2="168.0" y2="254.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="24.0" y="258.0" width="288.0" height="56.0" rx="10" fill="#e8f0fa" stroke="#1c5aa6" stroke-width="2" data-mark="node"/>
+<text x="168.0" y="295.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="middle">pptx·xlsx 생성</text>
+<line x1="168.0" y1="318.0" x2="168.0" y2="350.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="24.0" y="354.0" width="288.0" height="56.0" rx="10" fill="#e6f2eb" stroke="#17663f" stroke-width="2" data-mark="node"/>
+<text x="168.0" y="391.0" font-size="26" font-weight="700" fill="#17663f" text-anchor="middle">검사 도구</text>
+<text x="480.0" y="38.0" font-size="28" font-weight="700" fill="#24272b" text-anchor="middle">고칠 때</text>
+<line x1="336.0" y1="50.0" x2="624.0" y2="50.0" stroke="#c9cdd3" stroke-width="2"/>
+<rect x="336.0" y="66.0" width="288.0" height="56.0" rx="10" fill="#e8f0fa" stroke="#1c5aa6" stroke-width="2" data-mark="node"/>
+<text x="480.0" y="103.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="middle">원천 데이터 수정</text>
+<line x1="480.0" y1="126.0" x2="480.0" y2="158.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="336.0" y="162.0" width="288.0" height="56.0" rx="10" fill="#e8f0fa" stroke="#1c5aa6" stroke-width="2" data-mark="node"/>
+<text x="480.0" y="199.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="middle">git diff로 문서 고르기</text>
+<line x1="480.0" y1="222.0" x2="480.0" y2="254.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="336.0" y="258.0" width="288.0" height="56.0" rx="10" fill="#e6f2eb" stroke="#17663f" stroke-width="2" data-mark="node"/>
+<text x="480.0" y="295.0" font-size="26" font-weight="700" fill="#17663f" text-anchor="middle">다시 생성</text>
+</svg>
