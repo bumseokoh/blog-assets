@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 648 308" width="648" height="308" role="img" aria-label="Search는 성공한 실행 한 번, Page는 집계된 가져온 URL 하나를 단위로 세어 각각 0.001달러를 곱하는 구조도" font-family='"Pretendard","Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic","맑은 고딕",sans-serif'>
+<title>Search는 성공한 실행 한 번, Page는 집계된 가져온 URL 하나를 단위로 세어 각각 0.001달러를 곱하는 구조도</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5f6368"/></marker></defs>
+<rect width="648" height="308" fill="#ffffff"/>
+<rect x="24.0" y="16.0" width="162.7" height="88.0" rx="10" fill="#e8f0fa" stroke="#1c5aa6" stroke-width="2" data-mark="node"/>
+<text x="105.3" y="53.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="middle">Search</text>
+<text x="105.3" y="85.0" font-size="25" fill="#5f6368" text-anchor="middle">성공 실행</text>
+<rect x="24.0" y="179.0" width="162.7" height="88.0" rx="10" fill="#e8f0fa" stroke="#1c5aa6" stroke-width="2" data-mark="node"/>
+<text x="105.3" y="216.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="middle">Page</text>
+<text x="105.3" y="248.0" font-size="25" fill="#5f6368" text-anchor="middle">집계된 URL</text>
+<rect x="242.7" y="16.0" width="162.7" height="88.0" rx="10" fill="#ffffff" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="324.0" y="53.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="middle">금액</text>
+<text x="324.0" y="85.0" font-size="25" fill="#5f6368" text-anchor="middle">$0.001</text>
+<rect x="242.7" y="179.0" width="162.7" height="88.0" rx="10" fill="#ffffff" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="324.0" y="216.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="middle">금액</text>
+<text x="324.0" y="248.0" font-size="25" fill="#5f6368" text-anchor="middle">$0.001</text>
+<rect x="461.3" y="16.0" width="162.7" height="88.0" rx="10" fill="#e6f2eb" stroke="#17663f" stroke-width="2" data-mark="node"/>
+<text x="542.7" y="53.0" font-size="26" font-weight="700" fill="#17663f" text-anchor="middle">1,000단위</text>
+<text x="542.7" y="85.0" font-size="25" fill="#5f6368" text-anchor="middle">$1</text>
+<rect x="461.3" y="162.0" width="162.7" height="122.0" rx="10" fill="#e6f2eb" stroke="#17663f" stroke-width="2" data-mark="node"/>
+<text x="542.7" y="199.0" font-size="26" font-weight="700" fill="#17663f" text-anchor="middle">1,000</text>
+<text x="542.7" y="233.0" font-size="26" font-weight="700" fill="#17663f" text-anchor="middle">URL</text>
+<text x="542.7" y="265.0" font-size="25" fill="#5f6368" text-anchor="middle">$1</text>
+<text x="214.7" y="72.0" font-size="34" font-weight="700" fill="#5f6368" text-anchor="middle">×</text>
+<text x="214.7" y="235.0" font-size="34" font-weight="700" fill="#5f6368" text-anchor="middle">×</text>
+<text x="433.3" y="72.0" font-size="34" font-weight="700" fill="#5f6368" text-anchor="middle">=</text>
+<text x="433.3" y="235.0" font-size="34" font-weight="700" fill="#5f6368" text-anchor="middle">=</text>
+</svg>
