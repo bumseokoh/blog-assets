@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 648 336" width="648" height="336" role="img" aria-label="로그인 명령 실행, 조직 설정 적용, 조직의 클라우드 제공자 또는 gateway 사용 순서로 이어지는 흐름도" font-family='"Pretendard","Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic","맑은 고딕",sans-serif'>
+<title>로그인 명령 실행, 조직 설정 적용, 조직의 클라우드 제공자 또는 gateway 사용 순서로 이어지는 흐름도</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5f6368"/></marker></defs>
+<rect width="648" height="336" fill="#ffffff"/>
+<text x="324.0" y="38.0" font-size="28" font-weight="700" fill="#24272b" text-anchor="middle">조직 로그인</text>
+<line x1="104.0" y1="50.0" x2="544.0" y2="50.0" stroke="#c9cdd3" stroke-width="2"/>
+<rect x="104.0" y="66.0" width="440.0" height="56.0" rx="10" fill="#f1f3f4" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="324.0" y="103.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="middle">auth login</text>
+<line x1="324.0" y1="126.0" x2="324.0" y2="158.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="104.0" y="162.0" width="440.0" height="56.0" rx="10" fill="#e8f0fa" stroke="#1c5aa6" stroke-width="2" data-mark="node"/>
+<text x="324.0" y="199.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="middle">조직 설정 적용</text>
+<line x1="324.0" y1="222.0" x2="211.5" y2="254.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<line x1="324.0" y1="222.0" x2="436.5" y2="254.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="104.0" y="258.0" width="215.0" height="56.0" rx="10" fill="#e6f2eb" stroke="#17663f" stroke-width="2" data-mark="node"/>
+<text x="211.5" y="295.0" font-size="25" font-weight="700" fill="#17663f" text-anchor="middle">클라우드 제공자</text>
+<rect x="329.0" y="258.0" width="215.0" height="56.0" rx="10" fill="#e6f2eb" stroke="#17663f" stroke-width="2" data-mark="node"/>
+<text x="436.5" y="295.0" font-size="25" font-weight="700" fill="#17663f" text-anchor="middle">gateway</text>
+</svg>
