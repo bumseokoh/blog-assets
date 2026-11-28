@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 648 518" width="648" height="518" role="img" aria-label="에이전트 요청을 DOM 읽기, 요소 위치 읽기, 스크린샷 세 갈래로 나누어 Moli가 각각 하는 일을 보여 주는 구조도" font-family='"Pretendard","Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic","맑은 고딕",sans-serif'>
+<title>에이전트 요청을 DOM 읽기, 요소 위치 읽기, 스크린샷 세 갈래로 나누어 Moli가 각각 하는 일을 보여 주는 구조도</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5f6368"/></marker></defs>
+<rect width="648" height="518" fill="#ffffff"/>
+<rect x="24.0" y="243.0" width="162.7" height="90.0" rx="10" fill="#ffffff" stroke="#c9cdd3" stroke-width="2" data-mark="node"/>
+<text x="105.3" y="280.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="middle">에이전트</text>
+<text x="105.3" y="314.0" font-size="26" font-weight="700" fill="#24272b" text-anchor="middle">요청</text>
+<rect x="242.7" y="16.0" width="162.7" height="154.0" rx="10" fill="#e6f2eb" stroke="#17663f" stroke-width="2" data-mark="node"/>
+<text x="324.0" y="53.0" font-size="26" font-weight="700" fill="#17663f" text-anchor="middle">DOM·Mar</text>
+<text x="324.0" y="87.0" font-size="26" font-weight="700" fill="#17663f" text-anchor="middle">kdown</text>
+<text x="324.0" y="119.0" font-size="25" fill="#5f6368" text-anchor="middle">레이아웃</text>
+<text x="324.0" y="151.0" font-size="25" fill="#5f6368" text-anchor="middle">없음</text>
+<rect x="242.7" y="228.0" width="162.7" height="120.0" rx="10" fill="#e8f0fa" stroke="#1c5aa6" stroke-width="2" data-mark="node"/>
+<text x="324.0" y="265.0" font-size="26" font-weight="700" fill="#1c5aa6" text-anchor="middle">요소 위치</text>
+<text x="324.0" y="297.0" font-size="25" fill="#5f6368" text-anchor="middle">레이아웃 한</text>
+<text x="324.0" y="329.0" font-size="25" fill="#5f6368" text-anchor="middle">번</text>
+<rect x="242.7" y="406.0" width="162.7" height="88.0" rx="10" fill="#fbe9e7" stroke="#b3261e" stroke-width="2" data-mark="node"/>
+<text x="324.0" y="443.0" font-size="26" font-weight="700" fill="#b3261e" text-anchor="middle">스크린샷</text>
+<text x="324.0" y="475.0" font-size="25" fill="#5f6368" text-anchor="middle">새로 렌더링</text>
+<line x1="186.7" y1="284.0" x2="242.7" y2="97.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="198.4" y="112.0" width="66.1" height="32.0" rx="6" fill="#ffffff"/>
+<text x="206.4" y="137.0" font-size="25" fill="#5f6368">읽기</text>
+<line x1="186.7" y1="288.0" x2="242.7" y2="288.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="198.4" y="268.0" width="66.1" height="32.0" rx="6" fill="#ffffff"/>
+<text x="206.4" y="293.0" font-size="25" fill="#5f6368">좌표</text>
+<line x1="186.7" y1="292.0" x2="242.7" y2="446.0" stroke="#5f6368" stroke-width="2.5" marker-end="url(#ah)" data-mark="arrow"/>
+<rect x="198.4" y="397.6" width="66.1" height="32.0" rx="6" fill="#ffffff"/>
+<text x="206.4" y="422.6" font-size="25" fill="#5f6368">화면</text>
+</svg>
